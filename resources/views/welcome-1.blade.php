@@ -19,7 +19,7 @@
                 <a href="/1">With Component</a>
             </nav>
             <div>
-                Without Component
+                <example-component></example-component>
             </div>
         </div>
     </body>
